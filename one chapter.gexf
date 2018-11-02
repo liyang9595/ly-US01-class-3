@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Maester Aemon" label="Maester Aemon" />
+      <node id="Sworn" label="Sworn" />
+      <node id="Tall" label="Tall" />
+      <node id="Will" label="Will" />
+      <node id="Mallisters" label="Mallisters" />
+      <node id="Ser Waymar" label="Ser Waymar" />
+      <node id="Royce" label="Royce" />
+      <node id="Gared" label="Gared" />
+      <node id="Bet" label="Bet" />
+      <node id="Ser Waymar Royce" label="Ser Waymar Royce" />
+      <node id="Pale" label="Pale" />
+      <node id="Mormont" label="Mormont" />
+      <node id="Waymar" label="Waymar" />
+      <node id="Frost" label="Frost" />
+      <node id="Waymar Royce" label="Waymar Royce" />
+      <node id="Mallister" label="Mallister" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Maester Aemon" target="Gared" />
+      <edge id="1" source="Maester Aemon" target="Tall" />
+      <edge id="2" source="Maester Aemon" target="Will" />
+      <edge id="3" source="Maester Aemon" target="Mallisters" />
+      <edge id="4" source="Maester Aemon" target="Ser Waymar" />
+      <edge id="5" source="Maester Aemon" target="Royce" />
+      <edge id="6" source="Maester Aemon" target="Sworn" />
+      <edge id="7" source="Maester Aemon" target="Mallister" />
+      <edge id="8" source="Maester Aemon" target="Ser Waymar Royce" />
+      <edge id="9" source="Maester Aemon" target="Pale" />
+      <edge id="10" source="Maester Aemon" target="Mormont" />
+      <edge id="11" source="Maester Aemon" target="Waymar" />
+      <edge id="12" source="Maester Aemon" target="Frost" />
+      <edge id="13" source="Maester Aemon" target="Waymar Royce" />
+      <edge id="14" source="Maester Aemon" target="Bet" />
+      <edge id="15" source="Sworn" target="Gared" />
+      <edge id="16" source="Sworn" target="Tall" />
+      <edge id="17" source="Sworn" target="Will" />
+      <edge id="18" source="Sworn" target="Mallisters" />
+      <edge id="19" source="Sworn" target="Ser Waymar" />
+      <edge id="20" source="Sworn" target="Royce" />
+      <edge id="21" source="Sworn" target="Mallister" />
+      <edge id="22" source="Sworn" target="Ser Waymar Royce" />
+      <edge id="23" source="Sworn" target="Pale" />
+      <edge id="24" source="Sworn" target="Mormont" />
+      <edge id="25" source="Sworn" target="Waymar" />
+      <edge id="26" source="Sworn" target="Frost" />
+      <edge id="27" source="Sworn" target="Waymar Royce" />
+      <edge id="28" source="Sworn" target="Bet" />
+      <edge id="29" source="Tall" target="Gared" />
+      <edge id="30" source="Tall" target="Will" />
+      <edge id="31" source="Tall" target="Mallisters" />
+      <edge id="32" source="Tall" target="Ser Waymar" />
+      <edge id="33" source="Tall" target="Royce" />
+      <edge id="34" source="Tall" target="Mallister" />
+      <edge id="35" source="Tall" target="Ser Waymar Royce" />
+      <edge id="36" source="Tall" target="Pale" />
+      <edge id="37" source="Tall" target="Mormont" />
+      <edge id="38" source="Tall" target="Waymar" />
+      <edge id="39" source="Tall" target="Frost" />
+      <edge id="40" source="Tall" target="Waymar Royce" />
+      <edge id="41" source="Tall" target="Bet" />
+      <edge id="42" source="Will" target="Gared" />
+      <edge id="43" source="Will" target="Mallisters" />
+      <edge id="44" source="Will" target="Ser Waymar" />
+      <edge id="45" source="Will" target="Royce" />
+      <edge id="46" source="Will" target="Bet" />
+      <edge id="47" source="Will" target="Ser Waymar Royce" />
+      <edge id="48" source="Will" target="Pale" />
+      <edge id="49" source="Will" target="Mormont" />
+      <edge id="50" source="Will" target="Waymar" />
+      <edge id="51" source="Will" target="Frost" />
+      <edge id="52" source="Will" target="Waymar Royce" />
+      <edge id="53" source="Will" target="Mallister" />
+      <edge id="54" source="Mallisters" target="Gared" />
+      <edge id="55" source="Mallisters" target="Ser Waymar" />
+      <edge id="56" source="Mallisters" target="Royce" />
+      <edge id="57" source="Mallisters" target="Mallister" />
+      <edge id="58" source="Mallisters" target="Ser Waymar Royce" />
+      <edge id="59" source="Mallisters" target="Pale" />
+      <edge id="60" source="Mallisters" target="Mormont" />
+      <edge id="61" source="Mallisters" target="Waymar" />
+      <edge id="62" source="Mallisters" target="Frost" />
+      <edge id="63" source="Mallisters" target="Waymar Royce" />
+      <edge id="64" source="Mallisters" target="Bet" />
+      <edge id="65" source="Ser Waymar" target="Gared" />
+      <edge id="66" source="Ser Waymar" target="Royce" />
+      <edge id="67" source="Ser Waymar" target="Mallister" />
+      <edge id="68" source="Ser Waymar" target="Ser Waymar Royce" />
+      <edge id="69" source="Ser Waymar" target="Pale" />
+      <edge id="70" source="Ser Waymar" target="Mormont" />
+      <edge id="71" source="Ser Waymar" target="Waymar" />
+      <edge id="72" source="Ser Waymar" target="Frost" />
+      <edge id="73" source="Ser Waymar" target="Waymar Royce" />
+      <edge id="74" source="Ser Waymar" target="Bet" />
+      <edge id="75" source="Royce" target="Gared" />
+      <edge id="76" source="Royce" target="Mallister" />
+      <edge id="77" source="Royce" target="Ser Waymar Royce" />
+      <edge id="78" source="Royce" target="Pale" />
+      <edge id="79" source="Royce" target="Mormont" />
+      <edge id="80" source="Royce" target="Waymar" />
+      <edge id="81" source="Royce" target="Frost" />
+      <edge id="82" source="Royce" target="Waymar Royce" />
+      <edge id="83" source="Royce" target="Bet" />
+      <edge id="84" source="Gared" target="Mallister" />
+      <edge id="85" source="Gared" target="Ser Waymar Royce" />
+      <edge id="86" source="Gared" target="Pale" />
+      <edge id="87" source="Gared" target="Mormont" />
+      <edge id="88" source="Gared" target="Waymar" />
+      <edge id="89" source="Gared" target="Frost" />
+      <edge id="90" source="Gared" target="Waymar Royce" />
+      <edge id="91" source="Gared" target="Bet" />
+      <edge id="92" source="Bet" target="Mallister" />
+      <edge id="93" source="Bet" target="Ser Waymar Royce" />
+      <edge id="94" source="Bet" target="Pale" />
+      <edge id="95" source="Bet" target="Mormont" />
+      <edge id="96" source="Bet" target="Waymar" />
+      <edge id="97" source="Bet" target="Frost" />
+      <edge id="98" source="Bet" target="Waymar Royce" />
+      <edge id="99" source="Ser Waymar Royce" target="Mallister" />
+      <edge id="100" source="Ser Waymar Royce" target="Pale" />
+      <edge id="101" source="Ser Waymar Royce" target="Mormont" />
+      <edge id="102" source="Ser Waymar Royce" target="Waymar" />
+      <edge id="103" source="Ser Waymar Royce" target="Frost" />
+      <edge id="104" source="Ser Waymar Royce" target="Waymar Royce" />
+      <edge id="105" source="Pale" target="Mallister" />
+      <edge id="106" source="Pale" target="Mormont" />
+      <edge id="107" source="Pale" target="Waymar" />
+      <edge id="108" source="Pale" target="Frost" />
+      <edge id="109" source="Pale" target="Waymar Royce" />
+      <edge id="110" source="Mormont" target="Mallister" />
+      <edge id="111" source="Mormont" target="Waymar" />
+      <edge id="112" source="Mormont" target="Frost" />
+      <edge id="113" source="Mormont" target="Waymar Royce" />
+      <edge id="114" source="Waymar" target="Mallister" />
+      <edge id="115" source="Waymar" target="Frost" />
+      <edge id="116" source="Waymar" target="Waymar Royce" />
+      <edge id="117" source="Frost" target="Mallister" />
+      <edge id="118" source="Frost" target="Waymar Royce" />
+      <edge id="119" source="Waymar Royce" target="Mallister" />
+    </edges>
+  </graph>
+</gexf>
